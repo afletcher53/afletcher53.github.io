@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - afletcher53
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - afletcher53/VC_Patient_Visit_Classifier
+  - afletcher53/JournalTrawler
